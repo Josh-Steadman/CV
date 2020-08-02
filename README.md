@@ -1,6 +1,5 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+## Josh Steadman
+Biochemistry graduate from the University of Southampton. I have a professional approach to work and study and I am eager to develop my skills and career. Strong performer as part of a team and on my own as demonstrated in my approach to my semi-professional sporting career. The ever evolving tech industry will always keep progressing us as a species and as individuals, i seek to be a part of such progress however small or large.
 
 ## Projects
 
@@ -42,18 +41,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (02/08/2020 to 00/11/2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Southampton University( 01/10/16 to 01/06/19)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Biochemistry
+- 2:2
+- Played for english university rugby 7s team
 
 #### Any other qualifications
 
@@ -61,4 +60,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Semi-Professional rugby for London Irish Wild Geese in the 2019/2020 season
