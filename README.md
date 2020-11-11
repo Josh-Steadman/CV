@@ -5,20 +5,10 @@ Biochemistry graduate from the University of Southampton. I have a professional 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **project Chow**            | A android app providing a local food delivery service | Java, Android studios, Firebase. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
