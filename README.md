@@ -1,33 +1,26 @@
 ## Josh Steadman
-Biochemistry graduate from the University of Southampton. I have a professional approach to work and study and I am eager to develop my skills and career. Strong performer as part of a team and on my own as demonstrated in my approach to my semi-professional sporting career. The ever evolving tech industry will always keep progressing us as a species and as individuals, i seek to be a part of such progress however small or large.
+Aspiring software developer and a biochemistry graduate from the University of Southampton. I have a professional approach to work and study and I am eager to develop my skills and career. Strong performer as part of a team and on my own as demonstrated in my approach to my semi-professional sporting journey. I'm seeking a career as a developer as the ever evolving tech industry will always keep progressing us as a species and as individuals, i wish to be a part of such progress however small or large.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **project Chow**            | A android app providing a local food delivery service | Java, Android studios, Firebase. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| **Project Chow**            | A android app providing a local food delivery service, in which users can select meals or produce from local suppliers| Java, Android studios, Firebase. |
+| **Makers BnB** | A clone of airbnb where users can list house's or book dates for when they would like to stay at a listed house . | Ruby, Sinatra, Postgresql              |
 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem-Solving
 
-#### This Skill
+During university, in my third year research project i was tasked with finding a potential treatment for Urinary tract infections (UTI'S). And through my rigorous research i was able to come up with a theoretical solution, which demonstrated my ability to solve a complex problem thorough persistance and creative thinking.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Teamwork
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Having been played rugby in a semi-professional environment i have been able to quickly build good relations with all of my fellow teammates. I establish my role within a team very quickly and try to give my teammates clear and consise insturctions and feedback.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 ## Education
 
@@ -35,18 +28,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Java (Basic Knowledge)
 - RSpec, Jasmine
 
 #### Southampton University( 01/10/16 to 01/06/19)
 
-- Biochemistry
-- 2:2
-- Played for english university rugby 7s team
+- BSC Biochemistry
+- Played for english universities rugby 7s team
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
