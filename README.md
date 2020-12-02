@@ -18,7 +18,7 @@ During university, in my third year research project i was tasked with finding a
 
 #### Teamwork
 
-Having been played rugby in a semi-professional environment i have been able to quickly build good relations with all of my fellow teammates. I establish my role within a team very quickly and try to give my teammates clear and consise insturctions and feedback.
+Having been played rugby in a semi-professional environment i have been able to quickly build good relations with all of my fellow teammates. I establish my role within a team very quickly and try to give my teammates clear and consise insturctions and feedback. My time playing rugby has also generated my competitive spirit, so whatever team/organsiation i find myself in, i wish to help make us better than the competitors.
 
 
 
@@ -29,7 +29,7 @@ Having been played rugby in a semi-professional environment i have been able to 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Java (Basic Knowledge)
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara, Spring Boot
 
 #### Southampton University( 01/10/16 to 01/06/19)
 
