@@ -6,8 +6,8 @@ Aspiring software developer and a biochemistry graduate from the University of S
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Project Chow**            | A android app providing a local food delivery service, in which users can select meals or produce from local suppliers| Java, Android studios, Firebase. |
-| **Makers BnB** | A clone of airbnb where users can list house's or book dates for when they would like to stay at a listed house . | Ruby, Sinatra, Postgresql              |
-
+| **Makers BnB** | A clone of airbnb where users can list house's or book dates for when they would like to stay at a listed house . | Ruby, Sinatra, Postgresql.              |
+|**Car Sharing**| A web application where users can search for and select trips to get to their desired location.| Javascript, Node.js, MongoDb.|
 
 ## Skills
 
